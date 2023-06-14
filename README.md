@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm Vivi Gnutzmann!👋</h1>
+<h1 align="center">Hi, I'm Vivi!👋</h1>
 <h3 align="center">A Jr. full-stack web developer</h3>
 <h3 align="center">Welcome to my GitHub!</h3>
 
