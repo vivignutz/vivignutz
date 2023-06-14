@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **vivignutz/vivignutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm Vivi!👋</h1>
+<h1 align="center">Hi, I'm Vivi Gnutzmann!👋</h1>
 <h3 align="center">A Jr. full-stack web developer</h3>
+<h3 align="center">Welcome to my GitHub!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivignutz&label=Profile%20views&color=0e75b6&style=flat" alt="vivignutz" /> </p>
 
@@ -25,6 +24,10 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://twitter.com/vivinotuiter" target="blank"><img src="https://img.shields.io/twitter/follow/vivinotuiter?logo=twitter&style=for-the-badge" alt="vivinotuiter" /></a> </p>
 
 - 🌱 I’m currently learning **the MERN stack and JAVA**
+
+- 📍 Based in Berlin **:de:**
+
+- ⚡ Fun fact: **I have 2 fat cats :smile_cat: :smile_cat:**
 
 - 📫 How to reach me: **vgnutzmann@gmail.com**
 
