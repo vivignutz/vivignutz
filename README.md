@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/vivinotuiter" target="blank"><img src="https://img.shields.io/twitter/follow/vivinotuiter?logo=twitter&style=for-the-badge" alt="vivinotuiter" /></a> </p>
 
-- 🌱 I’m currently learning **the MERN stack and JAVA**
+- 🌱 I’m currently learning **the MERN stack, JAVA and Kotlin**
 
 - 📍 Based in Berlin **:de:**
 
