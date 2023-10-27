@@ -25,15 +25,15 @@ Here are some ideas to get you started:
 
 - 🎓 Diploma in Full-Stack Software Development at the  [Code Institute](https://codeinstitute.net/)
 
-- 🌱 I’m currently learning **MERN Stack, JAVA and Kotlin**
+- 👩‍🎓 I’m currently learning **MERN Stack, Java and Kotlin**
 
 - 📍 Based in Berlin **:de:**
 
 - ⚡ Fun fact: I'm a YouTube podcaster🎙️: **[PodNagringa](https://www.youtube.com/@podnagringa)**
 
-- 💻 Currently looking for an opportunity to start in Tech branch
+- 👩‍💻 Currently looking for an opportunity to start in Tech branch
 
-- 📫 How to reach me: **vgnutzmann@gmail.com**
+- 📫 You can reach me at this **[e-mail](mailto:vgnutzmann@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
