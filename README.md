@@ -23,11 +23,15 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/vivinotuiter" target="blank"><img src="https://img.shields.io/twitter/follow/vivinotuiter?logo=twitter&style=for-the-badge" alt="vivinotuiter" /></a> </p>
 
-- 🌱 I’m currently learning **the MERN stack, JAVA and Kotlin**
+- 🎓 Diploma in Full-Stack Software Development at the  [Code Institute](https://codeinstitute.net/)
+
+- 🌱 I’m currently learning **MERN Stack, JAVA and Kotlin**
 
 - 📍 Based in Berlin **:de:**
 
 - ⚡ Fun fact: I'm a YouTube podcaster🎙️: **[PodNagringa](https://www.youtube.com/@podnagringa)**
+
+- 💻 Currently looking for an opportunity to start in Tech branch
 
 - 📫 How to reach me: **vgnutzmann@gmail.com**
 
